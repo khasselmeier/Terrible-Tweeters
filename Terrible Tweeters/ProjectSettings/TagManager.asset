@@ -44,6 +44,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Particles
+  - name: Trees
     uniqueID: 1104882735
+    locked: 0
+  - name: Rocks
+    uniqueID: 1953155707
     locked: 0

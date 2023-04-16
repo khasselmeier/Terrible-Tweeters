@@ -29,7 +29,6 @@ public class Bird : MonoBehaviour
 
     void OnMouseDown()
     {
-        _spriteRenderer.color = Color.red;
         IsDragging = true;
     }
 
